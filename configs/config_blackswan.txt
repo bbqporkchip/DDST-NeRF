@@ -1,4 +1,4 @@
-expname = blackswan_H270_CTNeRF_pretrain
+expname = blackswan
 basedir = ./logs
 datadir = ./data/blackswan/
 
