@@ -1,4 +1,4 @@
-expname = Balloon1_H270_CTNeRF_pretrain
+expname = Balloon1
 basedir = ./logs
 datadir = ./data/Balloon1/
 
