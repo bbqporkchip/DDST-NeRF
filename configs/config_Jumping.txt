@@ -1,4 +1,4 @@
-expname = Jumping_H270_CTNeRF_pretrain
+expname = Jumping
 basedir = ./logs
 datadir = ./data/Jumping/
 
