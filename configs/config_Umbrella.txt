@@ -1,4 +1,4 @@
-expname = Umbrella_H270_CTNeRF_pretrain
+expname = Umbrella
 basedir = ./logs
 datadir = ./data/Umbrella/
 
