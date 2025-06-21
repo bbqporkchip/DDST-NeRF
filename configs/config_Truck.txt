@@ -1,4 +1,4 @@
-expname = Truck_H270_CTNeRF_pretrain
+expname = Truck
 basedir = ./logs
 datadir = ./data/Truck/
 
