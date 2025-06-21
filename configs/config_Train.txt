@@ -1,4 +1,4 @@
-expname = Train_H270_CTNeRF_pretrain
+expname = Train
 basedir = ./logs
 datadir = ./data/Train/
 
