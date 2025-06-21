@@ -1,4 +1,4 @@
-expname = Playground_H270_CTNeRF_pretrain
+expname = Playground
 basedir = ./logs
 datadir = ./data/Playground/
 
