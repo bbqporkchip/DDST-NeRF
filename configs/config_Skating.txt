@@ -1,4 +1,4 @@
-expname = Skating_H270_CTNeRF_pretrain
+expname = Skating
 basedir = ./logs
 datadir = ./data/Skating/
 
